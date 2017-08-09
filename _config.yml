@@ -13,6 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# Commands
+
+# serve local:
+# bash -c "jekyll serve"
+
+# build for development:
+# bash -c "jekyll build"
+
+# build for production:
+# bash -c "JEKYLL_ENV=production jekyll build"
+
 title: Fabse.net baut ein 🏠
 email: fabse.baut@fabse.net
 description: > # this means to ignore newlines until "baseurl:"
@@ -36,6 +48,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-minifier
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
