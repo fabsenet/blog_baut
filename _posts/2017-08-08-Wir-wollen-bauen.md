@@ -4,7 +4,9 @@ title:  "Die Entscheidung steht: Wir wollen bauen!"
 date:   2017-08-08 21:14:39 +0200
 categories: Meilenstein
 author: Fabian
-excerpt: Wir sind Desi und Fabian zusammen mit Adriana. Zu dritt wollen wir uns in ein eigenes Haus begeben. Es fing alles [...]
+excerpt: >
+  Wir sind Desi und Fabian zusammen mit Adriana. Zu dritt wollen wir uns in nun ein eigenes Haus bauen (lassen). Es fing alles  nur im Scherz an, [...]
+
 ---
 
 ## Aber wer sind "Wir"?
