@@ -41,6 +41,7 @@ url: "https://fabse.net" # the base hostname & protocol for your site, e.g. http
 minima:
   date_format: "%e. %B %Y"
 
+permalink: pretty
 google_analytics: UA-34726227-2
 
 # Build settings
